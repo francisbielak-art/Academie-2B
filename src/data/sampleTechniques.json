@@ -1,0 +1,29 @@
+[
+  {
+    "id": "technique_0001",
+    "title": "Défense saisie poignet - Krav Maga",
+    "style": "Krav Maga",
+    "level": "Débutant",
+    "description": "Désengagement du poignet, déséquilibre puis contre-frappe.",
+    "steps": [
+      { "order": 1, "title": "Posture", "description": "Pieds écartés, centre de gravité bas." },
+      { "order": 2, "title": "Torsion", "description": "Tordre le poignet de l'attaquant vers l'extérieur." },
+      { "order": 3, "title": "Éloignement", "description": "Pas latéral et recul de l'angle d'attaque." }
+    ],
+    "media": { "images": [] },
+    "tags": ["saisie", "poignet"]
+  },
+  {
+    "id": "technique_0002",
+    "title": "Contrôle au sol - Silat/Pencak (débutant)",
+    "style": "Silat/Pencak",
+    "level": "Débutant",
+    "description": "Contrôle latéral, libération et frappe au corps.",
+    "steps": [
+      { "order": 1, "title": "Se protéger", "description": "Positionner avant-bras pour protéger la tête." },
+      { "order": 2, "title": "Renversement", "description": "Créer un levier pour renverser." }
+    ],
+    "media": { "images": [] },
+    "tags": ["sol", "contrôle"]
+  }
+]

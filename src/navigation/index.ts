@@ -1,0 +1,2 @@
+/* Navigation index (placeholder) */
+export {};

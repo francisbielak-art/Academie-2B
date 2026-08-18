@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Academie 2B",
+    "slug": "academie-2b",
+    "version": "1.0.0",
+    "platforms": ["ios","android","web"],
+    "sdkVersion": "48.0.0",
+    "entryPoint": "node_modules/expo/AppEntry.js"
+  }
+}

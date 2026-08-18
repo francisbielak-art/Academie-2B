@@ -1,0 +1,9 @@
+# Starter commit for Expo TypeScript app
+
+Initial structure:
+- App.tsx
+- src/screens/HomeScreen.tsx
+- src/screens/TechniqueScreen.tsx
+- package.json, app.json, tsconfig.json
+
+Set up with Expo (TypeScript). Replace dependencies & SDK versions as needed.
